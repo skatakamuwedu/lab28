@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: sktakam/lab28:1.0.0
+        image: sktakam123/lab28:1.0.0
         imagePullPolicy: Always 
 ---
 apiVersion: v1 
